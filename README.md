@@ -7,3 +7,5 @@
 Адрес POST эндпоинта: https://localhost:7125/api/task
 
 Адрес GET эндпоинта: https://localhost:7125/api/task?id= (GUID задачи)
+
+Для просмотра содержимого БД в докере будет развёрнут adminer. Для входа нужно будет использовать логин: appuser и пароль: secret.
